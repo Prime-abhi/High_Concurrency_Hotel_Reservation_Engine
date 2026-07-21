@@ -1,5 +1,9 @@
+
 package com.hotel.hre.entity;
 
-public class RoomType {
-
+public enum RoomType {
+    STANDARD,
+    DELUXE,
+    SUITE,
+    FAMILY
 }
